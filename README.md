@@ -85,8 +85,78 @@ These Crystals have a special aura around them and have a white glow on the map 
 In amongst these are the special 7 Star Raid Battles. These battles are the hardest you can face in the game and if you manage to defeat it and catch a Pokémon from it, it will have a special Mark indicating that it was caught in a 7 Star Raid.
 
 
-[New Moves]
+[New Items]
 
+Gen 9 Introduced new items, here's the list:
+
+1. Held Items:
+
+Ability Shield os an item to be held by a Pokemon. This protects from having its Ability changed by an opponent's move or Ability. Location: Mesagoza Delibird Presents.
+
+Loaded Dice is an item to be held by a Pokemon. Allows the holder's multi-hit move to hit at least four times. Location: Levincia Delibird Presents, Defeat 5 Trainers in East Province (Area 1)
+
+Covert Cloak is an item to be held by a Pokemon. Protects the holder from being affected from additional effects by an opponent's move. Location: Levincia Delibird Presents, Montenevera.
+
+Mirror Herb is an item to be held by a Pokemon. The holder copies its opponent's stat boost. This item disappears after use. This item also allows a Pokemon to receive an Egg Move from another Pokemon during Picnics, provided that it has a vacant move slot. Location: Cascarrafa Delibird Presents.
+
+Punching Glove is an item to be held by a Pokemon. Boosts the power of punching moves by 10% while allowing the user to not get in direct contact with its target. Location: Mesagoza Delibird Presents, Defeat 7 Trainers in East Province (Area Three)
+
+Clear Amulet is an item to be held by a Pokemon. Protects the holder from having its stats lowered by an opponent's move or Ability. Location: Mesagoza Delibird Presents, Defeat 9 Trainers in West Province (Area One).
+
+Booster Energy is an item to be held by a Paradox Pokemon. Activates the Protosynthesis or Quark Drive Ability of a Paradox Pokemon which boosts its highest stat. Location: The Great Crater of Paldea, Held Item from: Great Tusk / Brute Bonnet / Sandy Shocks / Scream Tail / Flutter Mane / Slither Wing / Roaring Moon / Iron Treads / Iron Moth / Iron Hands / Iron Jugulis / Iron Thorns / Iron Bundle / Iron Valiant.
+
+2. Evolution Items:
+
+Auspicious Armor is an item to evolve Charcadet into Armarouge. Location: Zapapico.
+
+Malicious Armor is an item to evolve Characdet into Ceruledge. Location: Zapapico.
+
+3. Treasures:
+
+Tiny Bamboo Shoot is an item to be sold for a low price at shops. Sell Price: 375. Location: Sparkling Dropped Item.
+
+Big Bamboo Shoot is an item to be sold for high price at shops. Sell Price: 1500. Location: Sparkling Dropped Item.
+
+4. DLC Items:
+
+I. Held Items:
+
+Fairy Feather is an item to be held by a Pokemon. Boosts the power of the holder's Fairy-Type moves. Location: Oger Oustin', Oger Oustin' Reward.
+
+Cornerstone Mask is an item to be held by Ogerpon which allows it to change into its Cornerstone Mask form. Location: Defeat Titanic Okidogi.
+
+Wellspring Mask is an item to be held by Ogerpon which allows it to change into its Wellspring Mask form. Location: Defeat Titanic Munkidogi.
+
+Hearthflame Mask is an item to be held by Ogerpon which allows it to change into its Hearthflame Mask form. Location: Defeat Titanic Fezandipiti.
+
+II. Evolution Items:
+
+Masterpiece Teacup is an item used to evolve Artisan Form Polthcageist into a Masterpiece Form Sinistcha. Location: Timeless Woods.
+
+Unremarkable Teacup is an item used to evolve Counterfeit Form Polthcageist into a Unremarkable Form Sinistcha. Location: Oni Mountain.
+
+Syrup Apple is an item used to evolve Applin into Dipplin. Location: Mossfell Confluence.
+
+Metal Alloy is an item used to evolve Duraludon into Archaludon. Location: Blueberry Acadamy School Store, Terarium.
+
+III. Mochi (Vitamins):
+
+Fresh-Start Mochi is used to reset all of a Pokemon's Effort Values to 0. Location: Oger Oustin' Reward.
+
+Clever Mochi is used to increase a Pokemon's Effort Values for its Special Defense stat by 10 EVs. Location: Ogre Oustin' Reward.
+
+Genius Mochi is used to increase a Pokemon's Effort Values for its Special Attack stat by 10 EVs. Location: Ogre Oustin' Reward.
+
+Health Mochi is used to increase a Pokemon's Effort Values for its HP stat by 10 EVs. Location: Ogre Oustin' Reward.
+
+Muscle Mochi is used to increase a Pokemon's Effort Values for its Attack stat by 10 EVs. Location: Ogre Oustin' Reward.
+
+Resist Mochi is used to increase a Pokemon's Effort Values for its Defense stat by 10 EVs. Location: Ogre Oustin' Reward.
+
+Swift Mochi is used to increase a Pokemon's Effort Values for its Speed stat by 10 EVs. Location: Ogre Oustin' Reward.
+
+
+[New Moves]
 
 Here are all the new moves in Gen 9:
 
@@ -107,6 +177,8 @@ Blazing Torque is a Physical Fire type move with 80 Power 100% Accuracy and 10 P
 Burning Bulware is a Status Fire type move with 10 PP. This move doesn't make contact. Move Description: "The user’s intensely hot fur protects it from attacks and also burns any attacker that makes direct contact with it." Burning Bulwark protects the user from all effects of physical and special moves that target it during the turn it is used. If Burning Bulwark blocks an attack that would make contact with the user, the attacker becomes burned (unless they are immune). (Moves that are blocked do not activate other effects that require making contact, like Rocky Helmet or Rough Skin.) If the user goes last in the turn, the move will fail. The chance that Burning Bulwark will succeed also drops each time the user successfully and consecutively uses Endure, any protection move that only affects the user, Quick Guard, or Wide Guard. Each time, the chance of success is divided by 3. Some moves will do damage through Burning Bulwark. Moves that break protection, like Feint, will do their full damage and remove the effects of Burning Bulwark. The Ability Unseen Fist allows contact moves to bypass Burning Bulwark. Burning Bulwark is an increased priority move that will go before most attacks in a turn.
 
 Blood Moon is a Special Normal type move with 140 Power 100% Accuracy and 10 PP. This move doesn't make contact. Move Description: "The user unleashes the full brunt of its spirit from a full moon that shines as red as blood. This move can't be used twice in a row." The user cannot select Blood Moon in succession unless the move failed. If the player attempts to use Blood Moon twice in a row, they will be prevented from doing so, and will be allowed to select another move. Once another move is used, Blood Moon can be used again. If the user cannot select another move (due to Choice items or having no other usable moves), it will use Struggle every other turn. Instruct and Sleep Talk allow Blood Moon to be used twice in a row. Encore allows Blood Moon to be used twice in a row, but on subsequent turns of the Encore the user will be forced to Struggle.
+
+Chilling Water is a Special Water type move with 50 Power 100% Accuracy and 20 PP. This move doesn't make contact. Move Description: "The user attacks the target by showering it with water that’s so cold it saps the target’s power. This also lowers the target’s Attack stat." This move secondary effect is lowering the target's attack stat by one stage.
 
 Raging Bull is a Physical Normal type move with 90 Power 100% Accuracy and 10 PP. This move makes contact. Move Description: "The user performs a tackle like a raging bull. This move’s type depends on the user’s form. It can also break barriers, such as Light Screen and Reflect." This move has the secondary effects of breaking through Reflect and Light Screen barriers. This move's type depends on the user's form: Normal Form -> Normal Type, Combat Breed -> Combat Type, Blaze Breed -> Fire Type, Aqua Breed -> Water Type.
 
@@ -146,7 +218,7 @@ Blaze Breed Tauros Stats:
 Paldean Wooper is a Poison-Ground Type Pokemon with the abilities Poison Point, Water Absorb and the hidden ability Unware. Paldean Wooper level up moveset is 1 / Tail Whip, 1 / Mud Shot, 4 / Tackle, 8 / Posion Tail, 12 / Toxic Spike, 16 / Slam, 21 / Yawn, 24 / Poison Jab, 28 / Sludge Wave, 32 / Amnesia, 36 / Toxic, 40 / Earhtquake. Paldean Wooper's Egg Moves are Double Kick, Counter, Recover, Curse, Ancient Power, Stockpile, Spit Up, Swallow, Acid Spray, After You, Mist and Haze. Paldean Wooper can learn by TM: Take Down, Mud-Slap, Protect, Water Pulse, Low Kick, Acid Spray, Trailblaze, Chilling Water, Facade, Poison Tail, Bulldoze, Mud Shot, Rock Tomb, Venoshock, Endure, Rain Dance, Sandstorm, Dig, Body Slam, Sleep Talk, Waterfall, Poison Jab, Stomping Tantrum, Rest, Rock Slide, Body Press, Spikes, Toxic Spikes, Gunk Shot, Substitute, Liquidation, Stealth Rock,  Surf, Amnesia, Helping Hand, Earth Power, Hydro Pump, Sludge Bomb, Earthquake, Stone Edge, Tera Blast, Haze, Toxic, Double-Edge, Sludge Wave and Curse.
 Paldean Wooper's Stats:
 - Hp: 55
-- Atk: 145
+- Atk: 45
 - Def: 45
 - SpA: 25
 - SpD: 25
