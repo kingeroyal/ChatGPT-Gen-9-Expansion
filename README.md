@@ -1,5 +1,5 @@
 # ChatGPT-Gen-9-Expansion
-## This Currently Contains The Terastal Phenomenon, Regional Forms, Moves (Partially) and other General Information. The Knowledge for this project is from PokemonDB, Bulbapedia and Serebii. This was made by Kingeroyal. You can DM on discord @kingeroyal for any questions. Copy the following text file to ChatGPT
+## This Currently Contains The Terastal Phenomenon, Regional Forms, Moves (Partially) and other General Information. The Knowledge for this project is from PokemonDB, Bulbapedia and Serebii. This was made by Kingeroyal. You can DM on discord @kingeroyal for any questions. Copy the following text to ChatGPT:
 
 I'm Going To Tell You About Pokemon Gen 9:
 
