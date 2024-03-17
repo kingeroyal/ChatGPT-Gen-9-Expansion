@@ -180,6 +180,14 @@ Blood Moon is a Special Normal type move with 140 Power 100% Accuracy and 10 PP.
 
 Chilling Water is a Special Water type move with 50 Power 100% Accuracy and 20 PP. This move doesn't make contact. Move Description: "The user attacks the target by showering it with water that’s so cold it saps the target’s power. This also lowers the target’s Attack stat." This move secondary effect is lowering the target's attack stat by one stage.
 
+Chilly Reception is a Status Ice type move with 10 PP. This move doesn't make contact. Move Description: "The user tells a chillingly bad joke before switching places with a party Pokémon in waiting. This summons a snowstorm lasting five turns." This move effect is to switch out and summon a snowstorm lasting 5 turns.
+
+Collision Course is a Physical Fighting type move with 100 Power 100% Accuracy and 5 PP. This move makes contact. Move Description: "The user transforms and crashes to the ground, causing a massive prehistoric explosion. This move’s power is boosted more than usual if it’s a supereffective hit." This move's secondary effect boosts this attack by 33% if the move was super-effective.
+
+Combat Torque is a Physical Fighting type move with 100 Power 100 Accuracy and 10 PP. this move doesn't make contact. This move has no secondary effect.
+
+Comeuppance is a Physical Dark type move with 100% Accuracy and 10 PP. Move Description: "The user retaliates with much greater force against the opponent that last inflicted damage on it." Comeuppance returns 1.5 times the damage dealt by the foe's last attack. Unlike Counter or Mirror Coat, Comeuppance does not require specifically physical or special damage sources and Comeuppance does not have decreased priority; if the user acts before it is hit by an opponent's damaging move, Comeuppance will fail. The move also fails if the user's substitute is hit instead. In battles involving multiple Pokémon, Comeuppance will hit the last opponent that dealt damage to the user. Comeuppance cannot affect ally Pokémon. However, if the last Pokémon to hit the user faints before the user moves, the remaining enemy Pokémon will be hit instead, like with a regular single-target damaging move (using the damage taken from the move of the now-fainted Pokémon that had hit the user).
+
 Raging Bull is a Physical Normal type move with 90 Power 100% Accuracy and 10 PP. This move makes contact. Move Description: "The user performs a tackle like a raging bull. This move’s type depends on the user’s form. It can also break barriers, such as Light Screen and Reflect." This move has the secondary effects of breaking through Reflect and Light Screen barriers. This move's type depends on the user's form: Normal Form -> Normal Type, Combat Breed -> Combat Type, Blaze Breed -> Fire Type, Aqua Breed -> Water Type.
 
 
